@@ -42,7 +42,7 @@
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.new-task__wrapper {
   display: flex;
 }
 
@@ -165,11 +165,11 @@
   display: none;
 }
 
-.task-list .editMode .task-list__input {
+.task-list__item_mode .task-list__input {
   display: inline-block;
   width: 224px;
 }
 
-.task-list .editMode .task-list__label {
+.task-list__item_mode .task-list__label {
   display: none;
 }
